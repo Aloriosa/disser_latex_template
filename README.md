@@ -1,4 +1,5 @@
-LaTeX-шаблон для русской кандидатской диссертации и её автореферата.
+Копия LaTeX-шаблона для русской кандидатской диссертации и её автореферата. 
+Оригинал тут: [https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
 
 ## Особенности
 * Кодировка: UTF-8.
